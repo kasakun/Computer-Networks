@@ -1,0 +1,14 @@
+Waf: Entering directory `/home/chenzy/ns3/ns-allinone-3.26/ns-3.26/build'
+Waf: Leaving directory `/home/chenzy/ns3/ns-allinone-3.26/ns-3.26/build'
+Build commands will be stored in build/compile_commands.json
+'build' finished successfully (1.387s)
+Sink0	TotalRx: 5.22144Mb	Goodput: 0.087024Mbps
+Sink1	TotalRx: 6.20998Mb	Goodput: 0.1035Mbps
+Sink2	TotalRx: 5.07021Mb	Goodput: 0.0845035Mbps
+Sink3	TotalRx: 13.057Mb	Goodput: 0.217616Mbps
+Sink4	TotalRx: 6.30099Mb	Goodput: 0.105017Mbps
+Sink5	TotalRx: 4.26733Mb	Goodput: 0.0711221Mbps
+Sink6	TotalRx: 4.17024Mb	Goodput: 0.069504Mbps
+Sink7	TotalRx: 4.07744Mb	Goodput: 0.0679573Mbps
+
+	TotalRx: 48.3746Mb	Goodput: 0.806243Mbps
